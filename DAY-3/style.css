@@ -1,0 +1,38 @@
+body{
+	background-color:green;
+}
+h1{
+	color:red;
+	text-align:center;
+}
+p{
+	color:yellow;
+}
+.highlight{
+background-color:yellow;
+color:blue;
+text-align:center;
+padding:10px;
+border:5px solid black;
+border-radius:20px;
+}
+.container{
+background-color:blue;
+text-align:center;
+padding:10px;
+border:5px solid black;
+border-radius:20px;
+}
+.container label{
+color:red;
+}
+.container input{
+background-color:yellow;
+padding:10px;
+border:5px solid green;
+margin:10px
+}
+.container button:hover{
+background-color:red;
+}
+
