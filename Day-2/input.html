@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+
+<h1>Student Registration with input type</h1>
+
+<form>
+    <label>Name:</label><br>
+    <input type="text" name="name" placeholder="enter your name" minlength="3" maxlength="5" required>
+    <br><br>
+
+    <label>Email:</label><br>
+    <input type="email" name="email" placeholder="enter your email" required>
+    <br><br>
+
+    <label>Tel:</label><br>
+    <input type="tel" pattern="[0-9]{10}" placeholder="Enter 10-digit number" required>
+    <br><br>
+
+    <label>Age:</label><br>
+    <input type="number" min="18" max="60" required>
+    <br><br>
+
+    <label>Date:</label><br>
+    <input type="date" required>
+    <br><br>
+
+    <input type="submit" value="Register">
+</form>
+
+</body>
+</html>
