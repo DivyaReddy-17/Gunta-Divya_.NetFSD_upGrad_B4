@@ -1,0 +1,45 @@
+body{
+background-color:yellow;
+font-family:arial;
+}
+.container{
+background-color:pink;
+padding:20px;
+margin:15px;
+border:25px solid yellow;
+border radius:20px;
+text-align:center;
+}
+.Name{
+color:Red;
+background-color:green;
+font-family:arial;
+font-weight:bold;
+letter-spacing:5px;
+font-size:24px;
+}
+.Role{
+font-size:16px;
+background-color:white;
+color:black;
+text-transform:uppercase;
+}
+.Short description{
+color:yellow;
+background-color:blue;
+font-size:14px;
+line-height:1.6
+}
+.submit:hover{
+background-color:red;
+color:green;
+padding:20px;
+border-radius:15px;
+font-weight:bold;
+}
+.submit:hover{
+background-color:red;
+}
+
+
+
