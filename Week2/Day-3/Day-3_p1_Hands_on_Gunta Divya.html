@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <style>
+        body {
+            font-family: Arial, "Times New Roman", sans-serif;
+            text-align: center;
+        }
+        button {
+            background-color: green;
+            color: white;
+            padding: 5px;
+            border: 5px solid green;
+            border-radius: 5px;
+        }
+        #message {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Interactive Webpage</h2>
+    <input type="text" id="text"><br><br>
+    <button id="SubmitFeedback">Submit Feedback</button>
+    <div id="message"></div>
+
+    <script>
+        const button1 = document.getElementById("SubmitFeedback");
+        const message1 = document.getElementById("message");
+        const input1 = document.getElementById("text");
+
+        /*window.onload = function () {
+            const savedText = localStorage.getItem("feedback");
+            if (savedText) {
+                input1.value = savedText;
+            }
+        };*/
+
+        button1.addEventListener("click", function () {
+            if (input1.value === "")
+	    {
+                message1.textContent = "Please enter a feedback";
+                message1.style.color = "red";
+            } 
+	   else {
+                message1.textContent = "Thank you for your feedback";
+                message1.style.color = "green";
+                console.log("User feedback:", input1.value);
+
+                localStorage.setItem("feedback", input1.value);
+                input1.value = "";
+           }
+        });
+    </script>
+
+</body>
+</html>

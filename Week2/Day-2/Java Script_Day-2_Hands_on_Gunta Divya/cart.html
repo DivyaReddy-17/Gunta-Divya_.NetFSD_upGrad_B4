@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Product Cart Summary</title>
+</head>
+<body>
+
+<script>
+  const cart = [
+    { name: "Notebook", price: 50, quantity: 2 },
+    { name: "Pen", price: 10, quantity: 5 },
+    { name: "Backpack", price: 800, quantity: 1 }
+  ];
+  const total = cart.reduce((sum, item) => sum + item.price * item.quantity,0);
+  const invoiceLines = cart.map((item, index) =>`${index + 1}. ${item.name} - ₹${item.price} x ${item.quantity} = ₹${item.price * item.quantity}`);
+  const invoice = `Product Cart Total
+
+${invoiceLines.join("\n")}
+Total Amount: ₹${total}
+  `;
+console.log(invoice)
+</script>
+
+</body>
+</html>
