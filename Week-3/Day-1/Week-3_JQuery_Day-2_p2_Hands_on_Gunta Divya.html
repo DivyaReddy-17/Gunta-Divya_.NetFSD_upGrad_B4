@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+	<style>
+	body {
+    	font-family: Arial new roman;
+    	background-color:skyblue;
+	}
+
+	#faq-container {
+    		margin: 60px;
+    		background-color:pink;
+    		padding: 80px;
+    		border-radius:10px;
+	}
+	#faq-container h2 {
+    		text-align: center;
+    		margin-bottom: 20px;
+	}
+	.question {
+    		margin: 0;
+		border:1px solid black;
+    		font-size: 18px;
+		}
+	.question:hover {color:green;}
+	</style>
+
+	<div id="faq-container">
+        <h2>Frequently Asked Questions</h2>
+	<div class="faqquestion">
+            <h3 class="question">What is jQuery?</h3>
+            <p class="answer">Yes,it is a javascript library and simplifices the javascript programming</p>
+        </div>
+	<div class="faqquestion">
+            <h3 class="question">Why we are going to use?</h3>
+            <p class="answer">It is most popular and extensible.</p>
+        </div>
+
+        <div class="faqquestion">
+            <h3 class="question">what are the companies uses the Jquery?</h3>
+            <p class="answer">Yah,Google,Microsoft,IBM is used</p>
+        </div>
+
+        <div class="faqquestion">
+            <h3 class="question">what are the features?</h3>
+            <p class="answer">Dom manipulation,Event handling and Ajac calls</p>
+        </div>
+
+        <div class="faqquestion">
+            <h3 class="question">is jquery supports all browsers?</h3>
+            <p class="answer">Yes,it supports all browsers</p>
+        </div>
+    	</div>
+	<script>
+		$(document).ready(function () {
+    			$(".question").click(function () {
+        			$(this).next(".answer").slideToggle();
+        		$(this).toggleClass("active");
+			$(".question").not(this).removeClass("active");
+        		$(".question").not(this).next(".answer").slideUp();
+   		 });
+	});
+	</script>
+</body>
+</html>

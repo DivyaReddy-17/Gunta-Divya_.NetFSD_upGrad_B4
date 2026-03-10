@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Feedback Form</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<style>
+	body {
+            text-align: center;
+            background-color: skyblue;
+            font-family: Arial new roman;
+        }
+
+        form {
+            background-color:pink;
+            border-radius: 5px;
+		padding:15px;
+        }
+
+        button {
+            background-color: green;
+            color: white;
+            border: none;
+        	}	
+</style>
+
+<body>
+    <h2>Feedback Form</h2>
+	<form id="feedback">
+        <label>Name:</label><br><br>
+        <input type="text" id="name"><br><br>
+
+        <label>Email:</label><br><br>
+        <input type="email" id="email"><br><br>
+
+        <label>Course Rating:</label><br><br>
+        <select id="rating">
+            <option value="">Select rating</option>
+            <option>Excellent</option>
+            <option>Good</option>
+            <option>Average</option>
+            <option>Poor</option>
+        </select><br><br>
+
+        <label>Comments:</label><br><br>
+        <textarea id="comments"></textarea><br><br>
+
+        <button type="submit">Submit</button>
+    	</form>
+
+    	<div id="message"></div>
+
+    	<script>
+		$(document).ready(function () {
+			$("#feedback").submit(function (e) {
+        		e.preventDefault();
+			var name = $("#name").val();
+        		var email = $("#email").val();
+			if (name === "" && email === "") {
+            			$("#message").text("Please enter both Name and Email").css("color", "red");
+        		} 
+        		else if (name === "") {
+            			$("#message").text("Please enter the Name").css("color", "red");
+        		} 
+        		else if (email === "") {
+           			 $("#message").text("Please enter the Email").css("color", "red");
+        		} 
+        		else {
+            			$("#message").text("Feedback submitted successfully").css("color", "green");
+            	$("#feedback")[0].reset();
+        		}
+    		});
+
+		});
+	</script>
+</body>
+</html>
