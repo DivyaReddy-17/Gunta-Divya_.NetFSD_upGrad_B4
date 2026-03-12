@@ -21,22 +21,6 @@ Sample Output: Addition = 15, Subtraction = 5
 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -48,11 +32,11 @@ namespace ConsoleApp1_oops
 {
     class Calculator
     {
-        public int Add(int num1,int num2)
+        static int Add(int num1,int num2)
         {
             return num1 + num2; 
         }
-        public int Subtract(int num1,int num2)
+        static int Subtract(int num1,int num2)
         {
             return num1-num2; 
         }
