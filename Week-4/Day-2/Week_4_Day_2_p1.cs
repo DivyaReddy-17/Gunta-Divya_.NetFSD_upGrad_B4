@@ -21,22 +21,6 @@ Sample Output: Addition = 15, Subtraction = 5
 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
