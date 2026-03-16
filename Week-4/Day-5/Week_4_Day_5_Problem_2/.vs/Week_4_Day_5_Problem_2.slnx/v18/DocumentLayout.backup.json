@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3CA07D-019A-460E-91B7-BF5D913562CE}|Week_4_Day_5_Problem_2.csproj|c:\\users\\gunta\\source\\repos\\week_4_day_5_problem_2\\week4_day5_problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA07D-019A-460E-91B7-BF5D913562CE}|Week_4_Day_5_Problem_2.csproj|solutionrelative:week4_day5_problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Week_4_Day_5_Problem_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3CA07D-019A-460E-91B7-BF5D913562CE}|Week_4_Day_5_Problem_2.csproj|c:\\users\\gunta\\source\\repos\\week_4_day_5_problem_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3CA07D-019A-460E-91B7-BF5D913562CE}|Week_4_Day_5_Problem_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3CA07D-019A-460E-91B7-BF5D913562CE}|Week_4_Day_5_Problem_2.csproj|c:\\users\\gunta\\source\\repos\\week_4_day_5_problem_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week_4_Day_5_Problem_2",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Week_4_Day_5_Problem_2.csproj",
+              "RelativeDocumentMoniker": "Week_4_Day_5_Problem_2.csproj",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Week_4_Day_5_Problem_2.csproj",
+              "RelativeToolTip": "Week_4_Day_5_Problem_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-16T17:13:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week4_Day5_Problem2.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Week4_Day5_Problem2.cs",
+              "RelativeDocumentMoniker": "Week4_Day5_Problem2.cs",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Week4_Day5_Problem2.cs",
+              "RelativeToolTip": "Week4_Day5_Problem2.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:55:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Week_4_Day_5_Problem_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:53:42.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
