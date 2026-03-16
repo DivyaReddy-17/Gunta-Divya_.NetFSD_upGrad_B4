@@ -36,7 +36,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_Upd
 {
-    internal class Week_4_Day_1_p1
+    internal class Problem1
     {
         static void Main(string[] args)
         {
