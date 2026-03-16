@@ -1,0 +1,7 @@
+C:\Users\gunta\source\repos\Linq_samples_Assignment\obj\Debug\Linq_samples_Assignment.csproj.AssemblyReference.cache
+C:\Users\gunta\source\repos\Linq_samples_Assignment\obj\Debug\Linq_samples_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\gunta\source\repos\Linq_samples_Assignment\bin\Debug\Linq_samples_Assignment.exe.config
+C:\Users\gunta\source\repos\Linq_samples_Assignment\bin\Debug\Linq_samples_Assignment.exe
+C:\Users\gunta\source\repos\Linq_samples_Assignment\bin\Debug\Linq_samples_Assignment.pdb
+C:\Users\gunta\source\repos\Linq_samples_Assignment\obj\Debug\Linq_samples_Assignment.exe
+C:\Users\gunta\source\repos\Linq_samples_Assignment\obj\Debug\Linq_samples_Assignment.pdb

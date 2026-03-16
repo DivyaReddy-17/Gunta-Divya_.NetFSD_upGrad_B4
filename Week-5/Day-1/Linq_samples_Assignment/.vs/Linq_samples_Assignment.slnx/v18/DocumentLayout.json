@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B500B2-7867-4842-BABA-3BA9F9C08B94}|Linq_samples_Assignment.csproj|C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\provided.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B500B2-7867-4842-BABA-3BA9F9C08B94}|Linq_samples_Assignment.csproj|solutionrelative:provided.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunta\\AppData\\Local\\Temp\\a69a94cc-befa-4e79-9779-7b57bcd4e94d_LinqCodeTemplate.zip.94d\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Linq_samples_Assignment||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B500B2-7867-4842-BABA-3BA9F9C08B94}|Linq_samples_Assignment.csproj|C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B500B2-7867-4842-BABA-3BA9F9C08B94}|Linq_samples_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B500B2-7867-4842-BABA-3BA9F9C08B94}|Linq_samples_Assignment.csproj|c:\\users\\gunta\\source\\repos\\linq_samples_assignment\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Linq_samples_Assignment",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Linq_samples_Assignment.csproj",
+              "RelativeDocumentMoniker": "Linq_samples_Assignment.csproj",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Linq_samples_Assignment.csproj",
+              "RelativeToolTip": "Linq_samples_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-16T12:37:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Provided.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Provided.cs",
+              "RelativeDocumentMoniker": "Provided.cs",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Provided.cs",
+              "RelativeToolTip": "Provided.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:21:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\AppData\\Local\\Temp\\a69a94cc-befa-4e79-9779-7b57bcd4e94d_LinqCodeTemplate.zip.94d\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\a69a94cc-befa-4e79-9779-7b57bcd4e94d_LinqCodeTemplate.zip.94d\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "ToolTip": "C:\\Users\\gunta\\AppData\\Local\\Temp\\a69a94cc-befa-4e79-9779-7b57bcd4e94d_LinqCodeTemplate.zip.94d\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\a69a94cc-befa-4e79-9779-7b57bcd4e94d_LinqCodeTemplate.zip.94d\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:20:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gunta\\source\\repos\\Linq_samples_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:20:23.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
