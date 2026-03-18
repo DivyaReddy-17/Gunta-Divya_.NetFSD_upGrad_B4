@@ -1,0 +1,7 @@
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\bin\Debug\Week_5_Day_2_Problem_4.exe.config
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\bin\Debug\Week_5_Day_2_Problem_4.exe
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\bin\Debug\Week_5_Day_2_Problem_4.pdb
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\obj\Debug\Week_5_Day_2_Problem_4.csproj.AssemblyReference.cache
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\obj\Debug\Week_5_Day_2_Problem_4.csproj.CoreCompileInputs.cache
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\obj\Debug\Week_5_Day_2_Problem_4.exe
+C:\Users\gunta\source\repos\Week_5_Day_2_Problem_4\obj\Debug\Week_5_Day_2_Problem_4.pdb
