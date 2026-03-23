@@ -1,0 +1,6 @@
+Week_5_Day_4_Problem_5 Information: 0 : Application Started
+Week_5_Day_4_Problem_5 Information: 0 : Step 1: Validating Order
+Week_5_Day_4_Problem_5 Information: 0 : Step 2: Processing Payment
+Week_5_Day_4_Problem_5 Information: 0 : Step 3: Updating Inventory
+Week_5_Day_4_Problem_5 Information: 0 : Step 4: Generating Invoice
+Week_5_Day_4_Problem_5 Information: 0 : Application Ended

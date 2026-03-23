@@ -1,0 +1,14 @@
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.AssemblyInfoInputs.cache
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.AssemblyInfo.cs
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.csproj.CoreCompileInputs.cache
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\bin\Debug\net8.0\Week_5_Day_4_Problem_5.exe
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\bin\Debug\net8.0\Week_5_Day_4_Problem_5.deps.json
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\bin\Debug\net8.0\Week_5_Day_4_Problem_5.runtimeconfig.json
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\bin\Debug\net8.0\Week_5_Day_4_Problem_5.dll
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\bin\Debug\net8.0\Week_5_Day_4_Problem_5.pdb
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.dll
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\refint\Week_5_Day_4_Problem_5.dll
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.pdb
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\Week_5_Day_4_Problem_5.genruntimeconfig.cache
+C:\C#\Week_5_Day_4_Problem_5\Week_5_Day_4_Problem_5\obj\Debug\net8.0\ref\Week_5_Day_4_Problem_5.dll
