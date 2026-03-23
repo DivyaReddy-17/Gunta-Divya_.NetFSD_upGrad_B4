@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Week_4_Day_4_Problem_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|c:\\c#\\week_4_day_4_problem_2\\week_4_day_4_problem_2\\week4_day4_problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|solutionrelative:week_4_day_4_problem_2\\week4_day4_problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|c:\\c#\\week_4_day_4_problem_2\\week_4_day_4_problem_2\\week_4_day_4_problem_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|solutionrelative:week_4_day_4_problem_2\\week_4_day_4_problem_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|c:\\c#\\week_4_day_4_problem_2\\week_4_day_4_problem_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0939970B-5F0C-4B39-A6DC-AFB453C2DC91}|Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj|solutionrelative:week_4_day_4_problem_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week4_Day4_Problem2.cs",
+              "DocumentMoniker": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Week4_Day4_Problem2.cs",
+              "RelativeDocumentMoniker": "Week_4_Day_4_Problem_2\\Week4_Day4_Problem2.cs",
+              "ToolTip": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Week4_Day4_Problem2.cs",
+              "RelativeToolTip": "Week_4_Day_4_Problem_2\\Week4_Day4_Problem2.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwF4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T05:55:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week_4_Day_4_Problem_2",
+              "DocumentMoniker": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj",
+              "RelativeDocumentMoniker": "Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj",
+              "ToolTip": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj",
+              "RelativeToolTip": "Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-22T06:03:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Program.cs",
+              "RelativeDocumentMoniker": "Week_4_Day_4_Problem_2\\Program.cs",
+              "ToolTip": "C:\\C#\\Week_4_Day_4_Problem_2\\Week_4_Day_4_Problem_2\\Program.cs",
+              "RelativeToolTip": "Week_4_Day_4_Problem_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T05:54:06.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
