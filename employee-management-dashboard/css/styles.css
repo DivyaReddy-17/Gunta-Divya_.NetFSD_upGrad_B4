@@ -1,0 +1,47 @@
+/* Reset default browser styles */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+/* Full screen gradient background for auth pages */
+.login-sign-background {
+    background: linear-gradient(to right, #2c394f, #2D68E0, #1155dd);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Login / Signup card styling */
+.login-card {
+    width: 100%;
+    max-width: 380px;
+    border-radius: 12px;
+}
+
+/* Card hover animation */
+.dashboard-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+/* Hover effect (lift + shadow) */
+.dashboard-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+/* Active employee badge */
+.badge-status-active { background-color: #198754; color: #fff; }
+/* Inactive employee badge */
+.badge-status-inactive { background-color: #962916; color: #fff; }
+/* styles for department*/
+.badge-dept-engineering { background-color: #0d6efd; color: #fff; }
+.badge-dept-marketing { background-color: #fd7e14; color: #fff; }
+.badge-dept-hr { background-color: #6f42c1; color: #fff; }
+.badge-dept-finance { background-color: #20c997; color: #fff; }
+.badge-dept-operations { background-color: #0dcaf0; color: #fff; }
+
+/* Custom small progress bar for dashboard */
+.progress-bar-custom { height: 8px; border-radius: 4px; }
+/*.btnAddEmployeeSection {background-color: grey;}*/
+/*.addEditModalTitle{
+    background-color: grey;
+}*/
+/* Override Bootstrap modal header color */
+.modal-header{
+    background-color: grey;
+}
