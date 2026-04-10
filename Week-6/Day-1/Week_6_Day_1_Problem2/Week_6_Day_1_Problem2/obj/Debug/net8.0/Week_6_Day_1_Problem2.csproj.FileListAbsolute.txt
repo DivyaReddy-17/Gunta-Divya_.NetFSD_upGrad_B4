@@ -1,0 +1,14 @@
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.AssemblyInfoInputs.cache
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.AssemblyInfo.cs
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.csproj.CoreCompileInputs.cache
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\bin\Debug\net8.0\Week_6_Day_1_Problem2.exe
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\bin\Debug\net8.0\Week_6_Day_1_Problem2.deps.json
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\bin\Debug\net8.0\Week_6_Day_1_Problem2.runtimeconfig.json
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\bin\Debug\net8.0\Week_6_Day_1_Problem2.dll
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\bin\Debug\net8.0\Week_6_Day_1_Problem2.pdb
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.dll
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\refint\Week_6_Day_1_Problem2.dll
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.pdb
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\Week_6_Day_1_Problem2.genruntimeconfig.cache
+C:\C#\Week_6_Day_1_Problem2\Week_6_Day_1_Problem2\obj\Debug\net8.0\ref\Week_6_Day_1_Problem2.dll

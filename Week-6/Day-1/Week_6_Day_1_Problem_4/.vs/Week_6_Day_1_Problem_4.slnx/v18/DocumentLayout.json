@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Week_6_Day_1_Problem_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\views\\printer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:views\\printer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\controllers\\printercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:controllers\\printercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\models\\basicprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:models\\basicprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\models\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:models\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\models\\advancedprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:models\\advancedprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\models\\interfaces\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:models\\interfaces\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|c:\\c#\\week_6_day_1_problem_4\\models\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAE963-B88D-439F-9634-0FCD345CC1EA}|Week_6_Day_1_Problem_4.csproj|solutionrelative:models\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:48:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:48:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Views\\Printer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Printer\\Index.cshtml",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Views\\Printer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Printer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:46:42.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvancedPrinter.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\AdvancedPrinter.cs",
+              "RelativeDocumentMoniker": "Models\\AdvancedPrinter.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\AdvancedPrinter.cs",
+              "RelativeToolTip": "Models\\AdvancedPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:23:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IPrinter.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IPrinter.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IPrinter.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:21:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicPrinter.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\BasicPrinter.cs",
+              "RelativeDocumentMoniker": "Models\\BasicPrinter.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\BasicPrinter.cs",
+              "RelativeToolTip": "Models\\BasicPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:22:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrinterController.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Controllers\\PrinterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrinterController.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Controllers\\PrinterController.cs",
+              "RelativeToolTip": "Controllers\\PrinterController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:23:46.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFax.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IFax.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IFax.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IFax.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IFax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:22:16.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IScanner.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IScanner.cs",
+              "ToolTip": "C:\\C#\\Week_6_Day_1_Problem_4\\Models\\Interfaces\\IScanner.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:21:32.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

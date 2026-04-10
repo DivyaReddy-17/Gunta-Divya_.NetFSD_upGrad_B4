@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|c:\\users\\gunta\\onedrive\\documents\\upgrade\\week-6\\day-5\\week_6_day_5_problem_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|c:\\users\\gunta\\onedrive\\documents\\upgrade\\week-6\\day-5\\week_6_day_5_problem_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|c:\\users\\gunta\\onedrive\\documents\\upgrade\\week-6\\day-5\\week_6_day_5_problem_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|c:\\users\\gunta\\onedrive\\documents\\upgrade\\week-6\\day-5\\week_6_day_5_problem_1\\views\\student\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|solutionrelative:views\\student\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|c:\\users\\gunta\\onedrive\\documents\\upgrade\\week-6\\day-5\\week_6_day_5_problem_1\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0BA029C-BB84-6FD8-6B2A-1BAB63BB90DF}|Week_6_Day_5_Problem_1.csproj|solutionrelative:views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:19:00.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:01:24.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T15:17:48.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Student\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Display.cshtml",
+              "ToolTip": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Student\\Display.cshtml",
+              "RelativeToolTip": "Views\\Student\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T15:14:49.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Student\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gunta\\OneDrive\\Documents\\Upgrade\\Week-6\\Day-5\\Week_6_Day_5_Problem_1\\Views\\Student\\Register.cshtml",
+              "RelativeToolTip": "Views\\Student\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T15:08:28.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
