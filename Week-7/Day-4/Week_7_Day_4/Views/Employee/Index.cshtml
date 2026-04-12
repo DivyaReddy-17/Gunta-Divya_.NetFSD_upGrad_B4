@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Week_7_Day_4.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2>Employee List</h2>
+
+<!-- Search + Filter Form -->
+<form method="get" class="row mb-3">
+
+    <div class="col-md-3">
+        <input type="text" name="search" class="form-control" placeholder="Search by Name" />
+    </div>
+
+    <div class="col-md-3">
+        <input type="text" name="department" class="form-control" placeholder="Department" />
+    </div>
+
+    <div class="col-md-2">
+        <select name="sortOrder" class="form-control">
+            <option value="">All Departments</option>
+            <option value="">Sort by Salary</option>
+            <option value="asc">Low to High</option>
+            <option value="desc">High to Low</option>
+        </select>
+    </div>
+
+    <div class="col-md-2">
+        <input type="date" name="startDate" class="form-control" />
+    </div>
+
+    <div class="col-md-2">
+        <input type="date" name="endDate" class="form-control" />
+    </div>
+
+    <div class="col-md-12 mt-2">
+        <button type="submit" class="btn btn-primary">Apply</button>
+        <a asp-action="Index" class="btn btn-secondary">Reset</a>
+    </div>
+</form>
+
+<!-- Add Employee -->
+<p>
+    <a asp-action="Create" class="btn btn-success">Add New Employee</a>
+    <a asp-action="Reports" class="btn btn-info">View Reports</a>
+</p>
+
+<!-- Employee Table -->
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+
+            <th>Name</th>
+            <th>Department</th>
+            <th>
+                Salary
+                <a asp-action="Index" asp-route-sortOrder="asc">⬆️</a>
+                <a asp-action="Index" asp-route-sortOrder="desc">⬇️</a>
+            </th>
+            <th>Hire Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model.Any())
+        {
+            foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.Name</td>
+                    <td>@emp.Department</td>
+                    <td>@emp.Salary</td>
+                    <td>@emp.HireDate.ToShortDateString()</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@emp.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@emp.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No employees found</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

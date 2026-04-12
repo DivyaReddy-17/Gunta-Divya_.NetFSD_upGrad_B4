@@ -1,0 +1,32 @@
+﻿@model List<Week_7_Day_1.Models.Product>
+@{
+    ViewData["Title"] = "ProductView";
+
+}
+<h1>Products Data</h1>
+<a asp-action="Create" class="btn btn-success mb-5">Create new One</a>
+
+<table border="1">
+    <tr>
+        @*@<th>Id</th>*@
+        <th>Name</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            @*<td>@item.Id</td>*@
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary">View</a>
+                <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-secondary">Edit</a>
+                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+

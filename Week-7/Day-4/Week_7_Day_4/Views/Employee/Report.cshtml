@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Reports";
+}
+
+<h2>Employee Reports</h2>
+
+<!--  Total Employees -->
+<div class="card mb-3 p-3 bg-light">
+    <h4>Total Employees: <span class="text-primary">@ViewBag.Total</span></h4>
+</div>
+
+<!--  Highest Paid Employee -->
+<div class="card mb-3 p-3">
+    <h4 class="text-success">Highest Paid Employee</h4>
+
+    @if (ViewBag.Highest != null)
+    {
+        <p><strong>Name:</strong> @ViewBag.Highest.Name</p>
+        <p><strong>Department:</strong> @ViewBag.Highest.Department</p>
+        <p><strong>Salary:</strong> @ViewBag.Highest.Salary</p>
+    }
+    else
+    {
+        <p>No data available</p>
+    }
+</div>
+
+<!--  Average Salary by Department -->
+<div class="card mb-3 p-3">
+    <h4 class="text-info">Average Salary by Department</h4>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Department</th>
+                <th>Average Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.AvgSalary)
+            {
+                <tr>
+                    <td>@item.Department</td>
+                    <td>@item.AvgSalary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!--  Group Employees by Department -->
+<div class="card mb-3 p-3">
+    <h4 class="text-warning">Employees Grouped by Department</h4>
+
+    @foreach (var group in ViewBag.Grouped)
+    {
+        <h5 class="mt-3 text-primary">@group.Key</h5>
+
+        <table class="table table-sm table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var emp in group)
+                {
+                    <tr>
+                        <td>@emp.Name</td>
+                        <td>@emp.Salary</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+<!--  Back Button -->
+<a asp-action="Index" class="btn btn-secondary">Back to Employee List</a>
+
+
